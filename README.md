@@ -34,8 +34,8 @@ br.com.cdi/
 │   └── TaxaCdiDto.java              <-- Modelo de dados (Record)
 ├── strategy/
 │   ├── CalculoRendimentoStrategy.java <-- Interface do cálculo
-│   ├── CalculoDiario.java            <-- Implementação diária
-│   ├── CalculoMensal.java            <-- Implementação mensal
+│   ├── CalculoDiarioStrategy.java            <-- Implementação diária
+│   ├── CalculoMensalStrategy.java            <-- Implementação mensal
 │   └── CalculoAnualStrategy.java     <-- Implementação anual
 └── util/
     └── TaxaCdiMapper.java           <-- Conversor de JSON (Jackson)
