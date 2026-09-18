@@ -1,7 +1,4 @@
 #Consulta e Cálculo de Rendimento CDI
-
-Aplicação Java desenvolvida para consultar a taxa diária do CDI em tempo real através da API do Banco Central do Brasil (BACEN) e realizar projeções de rendimento (diário, mensal e anual) aplicando padrões de projeto GoF.
-
 ---
 
 ##Padrões de Projeto Aplicados
